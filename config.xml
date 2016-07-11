@@ -2,8 +2,8 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.testvictorinox.ensa"
-        versionCode = "5.2.0"
-        version     = "5.2.0">
+        versionCode = "1.0"
+        version     = "1.0.0">
  
     <name>Encuesta Satisfaccion</name>
  
@@ -15,19 +15,7 @@
         Sergio Serrano
     </author>
  
-    <feature name="http://api.phonegap.com/1.0/camera"/>
-    <feature name="http://api.phonegap.com/1.0/contacts"/>
-    <feature name="http://api.phonegap.com/1.0/file"/>
-    <feature name="http://api.phonegap.com/1.0/geolocation"/>
-    <feature name="http://api.phonegap.com/1.0/media"/>
-    <feature name="http://api.phonegap.com/1.0/network"/>
-    <feature name="http://api.phonegap.com/1.0/notification"/>
-	<gap:platform name="ios" />
-	<gap:platform name="android" />
-	<gap:platform name="webos" />
-	<gap:platform name="symbian" />
-	<gap:platform name="blackberry" />
-	<gap:platform name="winphone" />
+    
 	<gap:splash src="css/images/emoticones_excelente.png" />
  
 </widget>
